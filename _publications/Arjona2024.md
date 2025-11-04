@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024
 date: 2024/10
 venue: 'A&A'
-paperurl: 'https://academicpages.github.io/files/2024.pdf'
-bibtexurl: 'https://academicpages.github.io/files/2024.bib'
+paperurl: 'https://elearjgal.github.io/files/2024.pdf'
+bibtexurl: 'https://elearjgal.github.io/files/2024.bib'
 citation: 'Arjona-Gálvez, E., et al. (2024).; <i>A&A</i>.; Volume 690, id.A286, 14 pp.'
 ---
