@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025
 date: 2025/07
 venue: 'A&A'
-paperurl: 'https://academicpages.github.io/files/2025.pdf'
-bibtexurl: 'https://academicpages.github.io/files/2025.bib'
+paperurl: 'https://elearjgal.github.io/files/2025.pdf'
+bibtexurl: 'https://elearjgal.github.io/files/2025.bib'
 citation: 'Arjona-Gálvez, E., et al. (2025).; <i>A&A</i>.; Volume 669, id.A301, 13 pp.'
 ---
