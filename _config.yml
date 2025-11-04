@@ -23,7 +23,7 @@ repository               : "elearjgal/elearjgal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Elena Arjona-Gálvez"
   pronouns         : "She/Her"  
   bio              : "PhD Student in Astrophysics"
