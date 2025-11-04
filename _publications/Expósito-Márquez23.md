@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023
 date: 2023/03
 venue: 'MNRAS'
-paperurl: 'https://elearjgal.github.io/files/2023.pdf'
-bibtexurl: 'https://elearjgal.github.io/files/2023.bib'
+paperurl: 'https://elearjgal.github.io/files/stac3799.pdf'
+bibtexurl: 'https://elearjgal.github.io/files/stac3799.bib'
 citation: 'Éxposito-Márquez, J., et al. (2023).; <i>MNRAS</i>.; Volume 519, Issue 3, pp.4384-4396'
 ---
