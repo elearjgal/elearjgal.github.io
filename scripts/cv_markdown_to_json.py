@@ -306,15 +306,15 @@ def parse_talks(talks_dir):
     
     return talks
 
-def parse_teaching(teaching_dir):
-    """Parse teaching from the _teaching directory."""
-    teaching = []
+def parse_outreach(outreach_dir):
+    """Parse outreach from the _outreach directory."""
+    outreach = []
     
-    if not os.path.exists(teaching_dir):
-        return teaching
+    if not os.path.exists(outreach_dir):
+        return outreach
     
-    for teaching_file in sorted(glob.glob(os.path.join(teaching_dir, "*.md"))):
-        with open(teaching_file, 'r', encoding='utf-8') as file:
+    for outreach_file in sorted(glob.glob(os.path.join(outreach_dir, "*.md"))):
+        with open(outreach_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Extract front matter
@@ -322,8 +322,8 @@ def parse_teaching(teaching_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract teaching details
-            teaching_entry = {
+            # Extract outreach details
+            outreach_entry = {
                 "course": front_matter.get('title', ''),
                 "institution": front_matter.get('venue', ''),
                 "date": front_matter.get('date', ''),
@@ -331,38 +331,10 @@ def parse_teaching(teaching_dir):
                 "description": front_matter.get('excerpt', '')
             }
             
-            teaching.append(teaching_entry)
+            outreach.append(outreach_entry)
     
-    return teaching
+    return outreach
 
-def parse_portfolio(portfolio_dir):
-    """Parse portfolio items from the _portfolio directory."""
-    portfolio = []
-    
-    if not os.path.exists(portfolio_dir):
-        return portfolio
-    
-    for portfolio_file in sorted(glob.glob(os.path.join(portfolio_dir, "*.md"))):
-        with open(portfolio_file, 'r', encoding='utf-8') as file:
-            content = file.read()
-        
-        # Extract front matter
-        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
-        if front_matter_match:
-            front_matter = yaml.safe_load(front_matter_match.group(1))
-            
-            # Extract portfolio details
-            portfolio_entry = {
-                "name": front_matter.get('title', ''),
-                "category": front_matter.get('collection', 'portfolio'),
-                "date": front_matter.get('date', ''),
-                "url": front_matter.get('permalink', ''),
-                "description": front_matter.get('excerpt', '')
-            }
-            
-            portfolio.append(portfolio_entry)
-    
-    return portfolio
 
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
@@ -392,11 +364,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Add talks
     cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
     
-    # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+    # Add outreach
+    cv_json["outreach"] = parse_outreach(os.path.join(repo_root, "_outreach"))
     
-    # Add portfolio
-    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:
