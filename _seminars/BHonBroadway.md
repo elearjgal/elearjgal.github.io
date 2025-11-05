@@ -2,7 +2,7 @@
 title: "The effect of AGN feedback in simulated dwarf galaxies"
 collection: talks
 type: "Talk"
-permalink: /talks/BHonBroadway
+permalink: /seminars/BHonBroadway
 venue: " BH on Broadways: The Next Generation of AGN Models in Galaxy Formation"
 date: 06/12/2023
 location: "Flatiron, NY, USA"
