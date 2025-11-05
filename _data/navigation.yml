@@ -15,7 +15,7 @@ main:
     url: /talks/ 
     
   - title: "Seminars"
-    url: /seminars/ 
+    url: /seminars/
 
   - title: "Schools"
     url: /schools/
