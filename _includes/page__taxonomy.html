@@ -7,3 +7,15 @@
 {% if site.category_archive.type and page.categories[0] and page.collection != 'publications' %}
   {% include category-list.html %}
 {% endif %}
+
+{% if site.category_archive.type and page.categories[0] and page.collection != 'seminars' %}
+  {% include category-list.html %}
+{% endif %}
+
+{% if site.category_archive.type and page.categories[0] and page.collection != 'schools' %}
+  {% include category-list.html %}
+{% endif %}
+
+{% if site.category_archive.type and page.categories[0] and page.collection != 'outreach' %}
+  {% include category-list.html %}
+{% endif %}
