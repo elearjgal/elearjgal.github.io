@@ -19,6 +19,9 @@ main:
   - title: "Seminars"
     url: /seminar/ 
 
+  - title: "Schools"
+    url: /schools/
+
   - title: "Outreach"
     url: /outreach/    
         
