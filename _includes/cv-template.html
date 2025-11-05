@@ -174,7 +174,7 @@
   {% endif %}
   
   {% if cv.presentations.size > 0 %}
-  <!-- Presentations/Talks -->
+  <!-- Conferences -->
   <div class="cv-section">
     <h2>Presentations</h2>
     <ul class="cv-list">
@@ -224,7 +224,58 @@
     </ul>
   </div>
   {% endif %}
-  
+
+  {% if cv.seminars.size > 0 %}
+  <!-- Seminars -->
+  <div class="cv-section">
+    <h2>Seminars</h2>
+    <ul class="cv-list">
+      {% for seminars in cv.seminars %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ seminars.course }}</div>
+          <div class="cv-item-date">{{ seminars.date | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ seminars.institution }}</div>
+          {% if seminars.role %}
+          <div class="cv-item-detail">Role: {{ seminars.role }}</div>
+          {% endif %}
+          {% if seminars.description %}
+          <div class="cv-item-detail">{{ seminars.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if cv.schools.size > 0 %}
+  <!-- schools -->
+  <div class="cv-section">
+    <h2>schools</h2>
+    <ul class="cv-list">
+      {% for schools in cv.schools %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ schools.course }}</div>
+          <div class="cv-item-date">{{ schools.date | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ schools.institution }}</div>
+          {% if schools.role %}
+          <div class="cv-item-detail">Role: {{ schools.role }}</div>
+          {% endif %}
+          {% if schools.description %}
+          <div class="cv-item-detail">{{ schools.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
