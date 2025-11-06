@@ -1,77 +1,63 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+    "email": "elenarjonagalvez@gmail.com",
+    "website": "https://elearjgal.github.io",
+    "summary": "Current PhD Student at the Instituto de Astrofísica de Canarias (IAC)",
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=fbeqcs4AAAAJ&hl=es"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-0462-7519"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/elearjgal"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Instituto de Astrofísica de Canarias (IAC)",
+      "area": "Ph.D Astrophysics",
+      "studyType": "Supervised by Arianna Di Cintio and Robert J. J. Grand",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": [AGN feedback in low-mass galaxies: detailed analysis and comparison with ongoing and upcoming surveys. ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Universidad de La Laguna (ULL)",
+      "area": "M.S. in Astrophysics",
+      "studyType": "Theoretical and computational specialisation.",
+      "startDate": "2019",
+      "endDate": "2021",
       "gpa": null,
-      "courses": []
+      "courses": [Master thesis: “The formation of bulgeless galaxies in simulations.”
+        Supervised by Dr. Chris Brook & Dr. Claudio Dalla Vecchia. Grade: 9.1/10]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Universidad de Sevilla (US)",
+      "area": "B.S. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2013",
+      "endDate": "2019",
       "gpa": null,
-      "courses": []
+      "courses": [Bachelor thesis: “Study of the relation between the morphology of massive galaxies and their satellites using
+EAGLE simulations.”
+        Supervised by Dr. Claudio Dalla Vecchia
+        Grade: 9.5/10]
     }
   ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {"html": "<ul>{% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}</ul>"},
-  ],
-  "Presentations": [
-    {"html": "<ul>{% for post in site.talks reversed %}{% include archive-single-talk-cv.html  %}{% endfor %}</ul>"},
-    {"html": "<ul>{% for post in site.seminars reversed %}{% include archive-single-seminars-cv.html  %}{% endfor %}</ul>"}
-  ],
-  "outreach": [
-    {"html": "<ul>{% for post in site.outreach reversed %}{% include archive-single-cv.html %}{% endfor %}</ul>"}
-  ]
 }
