@@ -8,7 +8,7 @@ IAC initiative that aims to make the work of women in Astronomy-Astrophysics vis
 
 I participated in this initiative twice. As part of this program, I was asked to give a seminar at my former secondary school in 2023 and 2024.
 
-=====
+
 2023, In-person talk at the Instituto de Educación Secundaria de Herrera, Sevilla
 ======
 
