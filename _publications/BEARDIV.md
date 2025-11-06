@@ -3,7 +3,7 @@ title: "Bulgeless Evolution and the Rise of Discs (BEARD) IV. The role of merger
 collection: publications
 category: submitted
 permalink: /publication/BEARDIV
-date: 2023/03
+date: 2025
 venue: 'A&A'
 citation: Rosas-Guevara, et. al A&A submitted
 ---
