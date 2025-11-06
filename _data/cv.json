@@ -65,10 +65,10 @@
   "interests": [],
   "references": [],
   "publications": [
-    {
-      {% for post in site.publications reversed %}
+    { 
+      "html": "<ul>{% for post in site.publications reversed %}
         {% include archive-single-cv.html %}
-        {% endfor %}
+        {% endfor %}</ul>"
     },
     {
       "name": "Paper Title Number 1",
