@@ -5,5 +5,5 @@ category: submitted
 permalink: /publication/BEARDV
 date: 2025/09
 venue: 'A&A'
-citation: 'Cardona-Barrero et. al A&A submitted'
+citation: 'Cardona-Barrero et al. A&A submitted'
 ---
