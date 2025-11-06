@@ -3,7 +3,7 @@ title: "Bulgeless Evolution And the Rise of Discs (BEARD). III. Physical Drivers
 collection: publications
 category: submitted
 permalink: /publication/BEARDIII
-date: 2025
+date: 2025/09
 venue: 'A&A'
 citation: Marrero de la Rosa et. al A&A submitted
 ---
