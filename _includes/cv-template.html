@@ -153,25 +153,6 @@
       {% for post in site.publications reversed %}
       {% include archive-single-cv.html %}
       {% endfor %}
-      {% for publication in cv.publications %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ publication.name }}</div>
-          <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ publication.publisher }}</div>
-          {% if publication.summary %}
-          <div class="cv-item-detail">{{ publication.summary }}</div>
-          {% endif %}
-          {% if publication.website %}
-          <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank">View Publication</a>
-          </div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
     </ul>
   </div>
   {% endif %}
@@ -181,22 +162,12 @@
   <div class="cv-section">
     <h2>Presentations</h2>
     <ul class="cv-list">
-      {% for talk in cv.presentations %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ talk.name }}</div>
-          <div class="cv-item-date">{{ talk.date | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ talk.event }}</div>
-          {% if talk.location %}
-          <div class="cv-item-detail">{{ talk.location }}</div>
-          {% endif %}
-          {% if talk.description %}
-          <div class="cv-item-detail">{{ talk.description }}</div>
-          {% endif %}
-        </div>
-      </li>
+      {% for post in site.talks reversed %}
+      {% include archive-single-talk-cv.html  %}
+      {% endfor %}
+      
+      {% for post in site.seminars reversed %}
+      {% include archive-single-seminars-cv.html  %}
       {% endfor %}
     </ul>
   </div>
@@ -207,22 +178,8 @@
   <div class="cv-section">
     <h2>Outreach</h2>
     <ul class="cv-list">
-      {% for outreach in cv.outreach %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ outreach.course }}</div>
-          <div class="cv-item-date">{{ outreach.date | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ outreach.institution }}</div>
-          {% if outreach.role %}
-          <div class="cv-item-detail">Role: {{ outreach.role }}</div>
-          {% endif %}
-          {% if outreach.description %}
-          <div class="cv-item-detail">{{ outreach.description }}</div>
-          {% endif %}
-        </div>
-      </li>
+      {% for post in site.outreach reversed %}
+      {% include archive-single-cv.html %}
       {% endfor %}
     </ul>
   </div>
