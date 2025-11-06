@@ -1,7 +1,7 @@
 ---
 title: "STARMUS festival"
 collection: teaching
-permalink: /teaching/STARMUS
+permalink: /outreach/STARMUS
 venue: "Instituto de Astrofísica de Canarias (IAC)"
 date: 2025/03
 location: "La Palma"
