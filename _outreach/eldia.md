@@ -3,12 +3,12 @@ title: "La astrofísica, el sexismo y el miedo a alzar la voz"
 collection: publications
 category: manuscripts
 permalink: /outreach/eldia
-date: 25/05/2025
+date: 2025/05
 venue: 'Gaveta de Astrofísica, El Día, Opinión de Tenerife.'
 paperurl: 'https://www.eldia.es/opinion/2025/05/26/astrofisica-sexismo-miedo-alzar-voz-117811340.html'
 ---
 
-op-ed about the sexism that women suffer in the scientific environment, with a particular focus on the astrophysical community.
+Op-ed about the sexism that women suffer in the scientific environment, with a particular focus on the astrophysical community.
 
 
 This forthcoming op-ed, “La astrofísica, el sexismo y el miedo a alzar la voz” (2025,
