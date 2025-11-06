@@ -5,5 +5,5 @@ category: submitted
 permalink: /publication/BEARDIV
 date: 2025/08
 venue: 'A&A'
-citation: 'Rosas-Guevara, et. al A&A submitted'
+citation: 'Rosas-Guevara, et al. A&A submitted'
 ---
