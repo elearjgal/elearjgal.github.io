@@ -1,11 +1,18 @@
+
 ---
 
 permalink: /
+
+title:
+
 author_profile: true
-redirect_from:
+
+redirect_from: 
+
   - /about/
+
   - /about.html
-  - /resume-json
+
 ---
 
 {% include base_path %}
@@ -15,6 +22,7 @@ redirect_from:
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
+
 
 
 
