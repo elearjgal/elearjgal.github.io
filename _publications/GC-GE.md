@@ -3,8 +3,8 @@ title: "Galactic centers as tracers of galaxy evolution: Zooming from galaxy lar
 collection: publications
 category: conferences
 permalink: /publication/GC-GE
-excerpt: This paper (in prep.) is a collective effort by all participants of the workshop, which reviewed one of the most debated questions in galaxy evolution: the connection between galactic central regions and the global evolution of galaxies.'
 date: 2025/10
 venue: 'Società Astronomica Italiana'
 citation: 'Pinna et al. in prep'
 ---
+This paper (in prep.) is a collective effort by all participants of the workshop, which reviewed one of the most debated questions in galaxy evolution: the connection between galactic central regions and the global evolution of galaxies.
