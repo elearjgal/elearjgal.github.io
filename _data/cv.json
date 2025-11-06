@@ -29,7 +29,8 @@
       "studyType": "Supervised by Arianna Di Cintio and Robert J. J. Grand",
       "startDate": "2021",
       "endDate": "2025",
-      "courses": ["Title: 'AGN feedback in low-mass galaxies: detailed analysis and comparison with ongoing and upcoming surveys'"]
+      "courses": ["AGN feedback in low-mass galaxies: detailed analysis and comparison with ongoing and upcoming surveys",
+      "Supervised by Dr. Arianna Di Cintio & Dr. Robert J. J. Grand"]
     },
     {
       "institution": "Universidad de La Laguna (ULL)",
@@ -37,8 +38,8 @@
       "studyType": "Theoretical and computational specialisation.",
       "startDate": "2019",
       "endDate": "2021",
-      "courses": ["Master thesis: 'The formation of bulgeless galaxies in simulations.'",
-        "Supervised by Dr. Chris Brook & Dr. Claudio Dalla Vecchia.",
+      "courses": ["The formation of bulgeless galaxies in simulations",
+        "Supervised by Dr. Chris Brook & Dr. Claudio Dalla Vecchia",
         "Grade: 9.1/10"]
     },
     {
@@ -47,7 +48,7 @@
       "studyType": "",
       "startDate": "2013",
       "endDate": "2019",
-      "courses": ["Bachelor thesis: 'Study of the relation between the morphology of massive galaxies and their satellites using EAGLE simulations.'",
+      "courses": ["Study of the relation between the morphology of massive galaxies and their satellites using EAGLE simulations",
         "Supervised by Dr. Claudio Dalla Vecchia",
         "Grade: 9.5/10"]
     }
