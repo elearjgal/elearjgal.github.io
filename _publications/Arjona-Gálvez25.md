@@ -2,7 +2,7 @@
 title: "A physically motivated galaxy size definition across different state-of-the-art hydrodynamical simulations"
 collection: publications
 category: manuscripts
-permalink: /publications/2025
+permalink: /publications/Arjona-Gálvez25
 date: 2025/07
 venue: 'A&A'
 paperurl: 'https://elearjgal.github.io/files/aa54290-25.pdf'
