@@ -28,3 +28,31 @@ an international audience of experts in galaxy formation and the local universe.
 discussions following my talk were particularly valuable for contextualizing my
 findings within broader questions of feedback efficiency and environmental
 dependence.
+
+
+---
+title: "A new galaxy size definition across different state-of-art hydrodynamical simulations"
+collection: talks
+type: "Talk"
+permalink: /talks/CLUES2024
+venue: "CLUES colaboration meeting"
+date: 11/06/2024
+location: "Warsav, Poland"
+---
+
+This talk presented the work that became Arjona-Gálvez et al. (2025), analyzing a
+new, physically motivated definition of galaxy size applicable across multiple
+cosmological simulation suites. This work provides a consistent framework for
+comparing galaxy structure and morphology between simulations with differing
+numerical resolutions and feedback prescriptions. The methodology was applied to
+large datasets from the AURIGA, HESTIA, NIHAO and FIRE-2 simulations, revealing
+that traditional size metrics can bias interpretations of galaxy growth. By basing the
+definition on star formation thresholds rather than surface brightness profiles, the
+study improves the connection between simulated and observed galaxies.
+Presenting this work at the CLUES meeting, which brings together leading experts in
+cosmological simulations and local universe studies, provided an invaluable platform
+to discuss the implications of this new approach. The audience feedback contributed
+to refining the statistical framework and validating the robustness of the definition
+across environments. This was one of two talks I gave at the conference, reflecting
+the relevance and visibility of my research within the computational astrophysics
+community.
