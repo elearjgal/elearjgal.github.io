@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /outreach/eclipse
 venue: "Instituto de Astrofísica de Canarias (IAC)"
-date: 20/03/2025
+date: 2025/03
 location: "Teide Observatory
 ---
 
