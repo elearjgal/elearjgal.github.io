@@ -2,7 +2,7 @@
 title: "A probabilistic deep learning model to distinguish cusps and cores in dwarf galaxies"
 collection: publications
 category: manuscripts
-permalink: /publications/2023
+permalink: /publications/Expósito-Márquez23
 date: 2023/03
 venue: 'MNRAS'
 paperurl: 'https://elearjgal.github.io/files/stac3799.pdf'
