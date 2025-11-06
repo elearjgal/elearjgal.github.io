@@ -162,15 +162,9 @@
   <div class="cv-section">
     <h2>Presentations</h2>
     <ul class="cv-list">
-      [
       {% for post in site.talks reversed %}
       {% include archive-single-talk-cv.html  %}
-      {% endfor %},
-      
-      {% for post in site.seminars reversed %}
-      {% include archive-single-seminars-cv.html  %}
       {% endfor %}
-      ]
     </ul>
   </div>
   {% endif %}
