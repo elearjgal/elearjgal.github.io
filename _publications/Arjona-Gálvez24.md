@@ -2,7 +2,7 @@
 title: " The role of active galactic nucleus feedback on the evolution of dwarf galaxies from cosmological simulations: Supermassive black holes suppress star formation in low-mass galaxies"
 collection: publications
 category: manuscripts
-permalink: /publication/2024
+permalink: /publications/Arjona-Gálvez24
 date: 2024/10
 venue: 'A&A'
 paperurl: 'https://elearjgal.github.io/files/aa49439-24.pdf'
