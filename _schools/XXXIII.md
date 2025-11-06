@@ -1,5 +1,5 @@
 ---
-title: "XXIII Canary Island Winter School of Astrophysics: Overlaps at the Frontiers of Astrophysics, Cosmology, and Particle Physics"
+title: "XXXIII Canary Island Winter School of Astrophysics: Overlaps at the Frontiers of Astrophysics, Cosmology, and Particle Physics"
 collection: talks
 type: "Assistant with short talk"
 permalink: /schools/XXXIII
