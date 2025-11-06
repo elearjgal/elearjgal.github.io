@@ -5,5 +5,5 @@ category: submitted
 permalink: /publication/BEARDIII
 date: 2025/09
 venue: 'A&A'
-citation: 'Marrero de la Rosa et. al A&A submitted'
+citation: 'Marrero de la Rosa et al. A&A submitted'
 ---
