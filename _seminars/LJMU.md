@@ -1,7 +1,7 @@
 ---
 title: "The effect of AGN feedback in simulated dwarf galaxies"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/LJMU
 venue: "Liverpool John Moores University (LJMU), Montly Research Seminar"
 date: 06/10/2023
