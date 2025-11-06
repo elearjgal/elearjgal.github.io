@@ -11,8 +11,8 @@ IAC initiative that aims to make the work of women in Astronomy-Astrophysics vis
 I participated in this initiative twice. As part of this program, I was asked to give a seminar at my former secondary school in 2023 and 2024.
 
 
-2024, In-person talk at the Instituto de Educación Secundaria de Herrera (Seville), where I talked about the role of women in astrophysics, and the shape of the galaxies, how they form and evolve over the time of the universe.
+- 2024, In-person talk at the Instituto de Educación Secundaria de Herrera (Seville), where I talked about the role of women in astrophysics, and the shape of the galaxies, how they form and evolve over the time of the universe.
 ======
 
-2023, In-person talk at the Instituto de Educación Secundaria de Herrera (Seville), where I talked about the role of women in astrophysics, my scientific career and other curiosities about my research life for senior high-school students.
+- 2023, In-person talk at the Instituto de Educación Secundaria de Herrera (Seville), where I talked about the role of women in astrophysics, my scientific career and other curiosities about my research life for senior high-school students.
 ======
