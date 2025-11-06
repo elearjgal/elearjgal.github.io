@@ -65,6 +65,9 @@
   "interests": [],
   "references": [],
   "publications": [
+    <ul>{% for post in site.publications reversed %}
+        {% include archive-single-cv.html %}
+        {% endfor %}</ul>,
     {
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
