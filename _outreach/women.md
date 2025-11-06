@@ -1,7 +1,7 @@
 ---
 title: "Talk to them: Women in Astronomy Talks"
 collection: talks 
-date: 2023
+date: 2023/06
 venue: "Instituto de astrofísica de Canarias (IAC)"
 permalink: /outreach/women 
 ---
