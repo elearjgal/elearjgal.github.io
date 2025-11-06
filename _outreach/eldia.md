@@ -4,9 +4,13 @@ collection: publications
 category: manuscripts
 permalink: /outreach/eldia
 date: 25/05/2025
-venue: 'op-ed about the sexism that women suffer in the scientific environment, with a particular focus on the astrophysical community. Gaveta de Astrofísica, El Día, Opinión de Tenerife.'
+venue: 'Gaveta de Astrofísica, El Día, Opinión de Tenerife.'
 paperurl: 'https://www.eldia.es/opinion/2025/05/26/astrofisica-sexismo-miedo-alzar-voz-117811340.html'
 ---
+
+op-ed about the sexism that women suffer in the scientific environment, with a particular focus on the astrophysical community.
+
+
 This forthcoming op-ed, “La astrofísica, el sexismo y el miedo a alzar la voz” (2025,
 in press), addresses an urgent issue within the scientific community: the persistence
 of sexism and the barriers it creates for women in astrophysics. While not a
@@ -27,3 +31,4 @@ The significance of this publication lies in its potential impact beyond academi
 raising awareness and fostering open discussion, it aims to contribute to cultural
 change within astrophysics, support women and underrepresented groups, and
 promote a more inclusive and equitable scientific community.
+======
