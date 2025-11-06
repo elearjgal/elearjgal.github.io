@@ -2,7 +2,7 @@
 title: "La astrofísica, el sexismo y el miedo a alzar la voz"
 collection: publications
 category: manuscripts
-type: "Published at"
+type: "Published"
 permalink: /outreach/eldia
 date: 2025/05
 venue: 'Gaveta de Astrofísica, El Día, Opinión de Tenerife.'
