@@ -145,7 +145,6 @@
   </div>
   {% endif %}
   
-  {% if cv.publications.size > 0 %}
   <!-- Publications -->
   <div class="cv-section">
     <h2>Publications</h2>
@@ -155,9 +154,17 @@
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
   
-  {% if cv.presentations.size > 0 %}
+  <!-- Seminars -->
+  <div class="cv-section">
+    <h2>Seminars</h2>
+    <ul class="cv-list">
+      {% for post in site.seminars reversed %}
+      {% include archive-single-seminars-cv.html  %}
+      {% endfor %}
+    </ul>
+  </div>
+
   <!-- Conferences -->
   <div class="cv-section">
     <h2>Conferences</h2>
@@ -167,7 +174,6 @@
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
   
   {% if cv.outreach.size > 0 %}
   <!-- Outreach -->
