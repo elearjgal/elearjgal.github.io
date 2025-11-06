@@ -2,7 +2,7 @@
 title: "Testing a physical galaxy size definition across simulations"
 collection: talks
 type: "Invited Seminar"
-permalink: /talks/SEA2024
+permalink: /talks/ICC
 venue: "Institute of Computational Cosmology"
 date: 19/06/2025
 location: "Durham, UK"
