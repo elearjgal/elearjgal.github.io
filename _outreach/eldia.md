@@ -6,6 +6,8 @@ permalink: /outreach/eldia
 date: 2025/05
 venue: 'Gaveta de Astrofísica, El Día, Opinión de Tenerife.'
 paperurl: 'https://www.eldia.es/opinion/2025/05/26/astrofisica-sexismo-miedo-alzar-voz-117811340.html'
+bibtexurl:
+citation: 
 ---
 
 Op-ed about the sexism that women suffer in the scientific environment, with a particular focus on the astrophysical community.
