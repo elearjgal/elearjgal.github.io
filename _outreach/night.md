@@ -1,7 +1,6 @@
 ---
 title: "Aprende a identificar el cielo nocturno"
 collection: teaching
-type: "Workshop"
 permalink: /outreach/night
 date: 2023/08
 location: "Centro Cultural de Isla Redonda, Sevilla"
