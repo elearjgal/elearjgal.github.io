@@ -1,6 +1,5 @@
 ---
 title: "STARMUS festival"
-collection: teaching
 permalink: /outreach/STARMUS
 venue: "Instituto de Astrofísica de Canarias (IAC)"
 date: 2025/03
