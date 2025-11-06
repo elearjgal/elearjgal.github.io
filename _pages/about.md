@@ -1,4 +1,3 @@
-
 ---
 
 permalink: /
@@ -10,8 +9,8 @@ author_profile: true
 redirect_from: 
 
   - /about/
-
   - /about.html
+  - /resume-json
 
 ---
 
@@ -20,9 +19,6 @@ redirect_from:
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
 {% include cv-template.html %}
-
-
-
 
 
 
