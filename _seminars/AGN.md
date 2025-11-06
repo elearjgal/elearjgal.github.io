@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/AGN
 venue: "AGN Talk Series"
-date: 04/13/2024
+date: 04/03/2024
 location: "Instituto de Astrofísica de Canarias (IAC), La Laguna, Spain"
 ---
 I was invited to the AGN Talk Series at IAC to present my results on AGN feedback
