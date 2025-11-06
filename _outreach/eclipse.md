@@ -1,7 +1,7 @@
 ---
 title: "Eclipse observation"
 collection: talks
-type:
+type: "Outreach activity"
 permalink: /outreach/eclipse
 venue: "Instituto de Astrofísica de Canarias (IAC)"
 date: 20/03/2025
