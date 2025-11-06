@@ -1,6 +1,5 @@
 ---
-title: "The role of AGN feedback on the evolution of dwarf galaxies from cosmological
-simulations"
+title: "Testing a physical galaxy size definition across simulations"
 collection: talks
 type: "Invited Seminar"
 permalink: /talks/SEA2024
