@@ -114,12 +114,12 @@
           {% endif %}
           {% if work.telescopes %}
           <div class="cv-item-detail">
-            <div><strong>Telescopes:</strong>{{ work.telescopes }}</div>
-            <div><strong>Instruments:</strong>{{ work.instruments }}</div>
+            <div><strong>Telescopes:</strong>{{ work.telescopes | join: ". " }}</div>
+            <div><strong>Instruments:</strong>{{ work.instruments | join: ". " }}</div>
           </div>
           {% endif %}
           {% if work.Host %}
-            <div><strong>Host:</strong>{{ work.Host }}</div>
+            <div><strong>Host:</strong>{{ work.Host | join: ". " }}</div>
           {% endif %}
           {% if work.summary %}
           <div class="cv-item-detail">{{ work.summary }}</div>
