@@ -104,21 +104,20 @@
       <li class="cv-item">
         <div class="cv-item-header">
           <div class="cv-item-title">{{ work.studyType }}</div>
-          <div class="cv-item-date">{{ work.time }}{% if work.startDate %} - {{ work.startDate }}{% endif %}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
+          <div class="cv-item-date">{{ work.time }}{% if work.startDate %}  {{ work.startDate }}{% endif %}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
           {% if work.institution %}
           <div class="cv-item-subtitle">{{ work.institution }}</div>
-          <div class="cv-item-details">{{ work.where }}</div>
           {% endif %}
           {% if work.telescopes %}
-          <div class="cv-item-detail">
-            <div><strong>Telescopes:</strong>{{ work.telescopes | join: ". " }}</div>
-            <div><strong>Instruments:</strong>{{ work.instruments | join: ". " }}</div>
-          </div>
+            <div class='cv-item-detail'><strong>Telescopes: </strong>{{ work.telescopes | join: ". " }}</div>
+            <div class='cv-item-detail'><strong>Instruments: </strong>{{ work.instruments | join: ". " }}</div>
           {% endif %}
           {% if work.Host %}
-            <div><strong>Host:</strong>{{ work.Host | join: ". " }}</div>
+          <div class="cv-item-detail">
+            <div><strong>Host: </strong>{{ work.Host | join: ". " }}</div>
+          </div>
           {% endif %}
           {% if work.summary %}
           <div class="cv-item-detail">{{ work.summary }}</div>
