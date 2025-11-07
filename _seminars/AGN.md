@@ -2,7 +2,7 @@
 title: "The role of AGN feedback on the evolution of dwarf galaxies from cosmological simulations"
 collection: talks
 type: "Invited talk"
-permalink: /talks/AGN
+permalink: /seminars/AGN
 venue: "AGN Talk Series"
 date: 04/03/2024
 location: "Instituto de Astrofísica de Canarias (IAC), La Laguna, Spain"
