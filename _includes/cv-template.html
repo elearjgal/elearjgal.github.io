@@ -167,14 +167,9 @@
   <div class="cv-section">
     <h2>Skills</h2>
     <div class="cv-skills">
-      {% for skill in cv.skills %}
-      <div class="cv-skill-category">
-        <h3>{{ skill.name }}</h3>
-        <ul class="cv-skill-list">
-          {% for keyword in skill.keywords %}
-          <li>{{ keyword }}</li>
-          {% endfor %}
-        </ul>
+      {% for skills in cv.skills %}
+      <div class='cv-item-category'><strong>PROGRAMMING: </strong>{{ skills.programing | join: ". " }}</div>
+      <div class="cv-skill-category"><strong>LANGUAGES: </strong>{{ skills.languages | join: ". " }}</div>
       </div>
       {% endfor %}
     </div>
