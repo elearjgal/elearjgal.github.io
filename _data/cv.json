@@ -27,7 +27,7 @@
       "time": "18 nights",
       "telescopes": "IAC80 (3 nights), Isaac Newton Telescope (INT, 15 nights)",
       "instruments": "CAMELOT2 (IAC80), Wide-Field Camera (WFC, INT)",
-      "sumary": []
+      "summary": []
     },
        {
       "studyType": "Research visitor",
@@ -36,7 +36,7 @@
       "time": "1 week",
       "startDate": "(2025/06)",
       "Host": "Dr. Francesca Frangkoudi",
-      "sumary": ["One week stay along with Giulia Golini, working with Dr. Francesca Fragkoudi using the AURIGA Superstars simulations."]
+      "summary": ["One week stay along with Giulia Golini, working with Dr. Francesca Fragkoudi using the AURIGA Superstars simulations."]
     }, 
            {
       "studyType": "Research visitor",
@@ -44,7 +44,7 @@
       "time": "5 weeks",
       "startDate": "(2024/11-2024/12)",
       "Host": "Dr. Laura Sales & Dr. Gabriela Canalizo",
-      "sumary": ["Five weeks stay regarding my PhD thesis, working with relevant people studying AGN galactic outflows."]
+      "summary": ["Five weeks stay regarding my PhD thesis, working with relevant people studying AGN galactic outflows."]
     },
            {
       "studyType": "Research visitor",
@@ -52,7 +52,7 @@
       "time": "2 months",
       "startDate": "(2023/09-2023/11)",
       "Host": "Dr. Robert Grand & Dr. Andrea Foont",
-      "sumary": ["Two months stay regarding my PhD thesis, working with relevant people in the galaxy formation area."]
+      "summary": ["Two months stay regarding my PhD thesis, working with relevant people in the galaxy formation area."]
     },
                {
       "studyType": "Research initiation",
@@ -60,7 +60,7 @@
       "time": "2 months",
       "startDate": "(2019/07-2019/09)",
       "Host": "Dr. Ariel Sánchez",
-      "sumary": ["Two months' stay funded by ERASMUS+ Traineeship program. Studying galaxy voids as cosmological laboratories."]
+      "summary": ["Two months' stay funded by ERASMUS+ Traineeship program. Studying galaxy voids as cosmological laboratories."]
     },
      {
       "studyType": "Research initiation",
@@ -69,7 +69,7 @@
       "time": "1 month",
       "startDate": "(2018/12-2019/01)",
       "Host": "José Javier Díaz & Juan Villa",
-      "sumary": ["Participation in the development of the LISA project as part of an external internship from the bachelor's."]
+      "summary": ["Participation in the development of the LISA project as part of an external internship from the bachelor's."]
     }
   ],
   "education": [
