@@ -104,14 +104,14 @@
     }
   ],
   "additional": [ 
-    {"role":"Referee at OJ and A&A"}, 
-    {"role":"Member of UNDARK"}, 
-    {"role":"Member of BEARD"}, 
-    {"role":"Member of ExGal-Twin"}, 
     {"role":"PhD Student Representative (IAC&ULL)"}, 
     {"role":"Galaxy Coffee organiser committee (IAC)"}, 
     {"role":"Former theory group weekly meeting organiser (IAC)"}, 
-    {"role":"Member of the sustainability committee (IAC)"} 
+    {"role":"Member of the sustainability committee (IAC)"},
+    {"role":"Referee at OJ and A&A"}, 
+    {"role":"Member of UNDARK"}, 
+    {"role":"Member of BEARD"}, 
+    {"role":"Member of ExGal-Twin"}
   ],
   "skills": [
     {"programing":"Python (advanced), Astro-Softwares (advanced), Matlab( advanced), Fortran (medium), SQL (medium), C/C++ (fair), MPI (fair), IDL (basic), HTML (basic)"},
