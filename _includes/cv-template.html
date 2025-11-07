@@ -97,18 +97,30 @@
 
   
   {% if cv.work.size > 0 %}
-  <!-- Work Experience -->
+  <!-- Research Experience -->
   <div class="cv-section">
-    <h2>Work Experience</h2>
+    <h2>Research Experience</h2>
     <ul class="cv-list">
       {% for work in cv.work %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ work.position }}</div>
-          <div class="cv-item-date">{{ work.startDate }}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
+          <div class="cv-item-title">{{ work.studyType }}</div>
+          <div class="cv-item-date">{{ work.time }}{% if work.startDate %} - {{ work.startDate }}{% endif %}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ work.company }}</div>
+          {% if work.institution %}
+          <div class="cv-item-subtitle">{{ work.institution }}</div>
+          <div class="cv-item-details">{{ work.where }}</div>
+          {% endif %}
+          {% if work.telescopes %}
+          <div class="cv-item-detail">
+            <div><strong>Telescopes:</strong>{{ work.telescopes }}</div>
+            <div><strong>Instruments:</strong>{{ work.instruments }}</div>
+          </div>
+          {% endif %}
+          {% if work.Host %}
+            <div><strong>Host:</strong>{{ work.Host }}</div>
+          {% endif %}
           {% if work.summary %}
           <div class="cv-item-detail">{{ work.summary }}</div>
           {% endif %}
