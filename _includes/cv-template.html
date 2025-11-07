@@ -159,7 +159,7 @@
   padding: 0;
 }
 .additional li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
 }
 </style>
 
@@ -169,7 +169,7 @@
     <div class="cv-skills">
       {% for skills in cv.skills %}
       <div class='cv-item-category'><strong>PROGRAMMING: </strong>{{ skills.programing | join: ". " }}</div>
-      <div class="cv-skill-category"><strong>LANGUAGES: </strong>{{ skills.languages | join: ". " }}</div>
+      <div class="cv-item-category"><strong>LANGUAGES: </strong>{{ skills.languages | join: ". " }}</div>
       </div>
       {% endfor %}
     </div>
