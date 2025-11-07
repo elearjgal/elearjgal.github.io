@@ -2,7 +2,7 @@
 title: "The impact of AGNs in AURIGA dwarf galaxies"
 collection: talks
 type: "Invited talk"
-permalink: /talks/GC
+permalink: /seminars/GC
 venue: "Galaxy Coffee"
 date: 02/11/2022
 location: "Instituto de Astrofísica de Canarias (IAC), La Laguna, Spain"
