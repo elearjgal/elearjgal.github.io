@@ -27,52 +27,52 @@
       "time": "18 nights"
       "telescopes": "IAC80 (3 nights), Isaac Newton Telescope (INT, 15 nights)",
       "instruments": "CAMELOT2 (IAC80), Wide-Field Camera (WFC, INT)",
-      "courses": []
+      "sumary": []
     },
        {
       "studyType": "Research visitor"
       "institution": "Institute for Computational Cosmology (ICC)"
       "where": "Durham, UK"
       "time": "1 week"
+      "startDate": 2025/06
       "Host": "Dr. Francesca Frangkoudi"
-      "courses": [One week stay along with Giulia Golini, working with Dr. Francesca Fragkoudi using the AURIGA Superstars simulations.]
+      "sumary": ["One week stay along with Giulia Golini, working with Dr. Francesca Fragkoudi using the AURIGA Superstars simulations."]
     }, 
            {
       "studyType": "Research visitor"
       "institution": "University of California, Riverside (UCR)"
       "where": "Riverside, CA, USA"
       "time": "5 weeks"
-      "date": 2024/11
+      "startDate": 2024/11
       "Host": "Dr. Laura Sales & Dr. Gabriela Canalizo"
-      "courses": [Five weeks stay regarding my PhD thesis, working with relevant people studying AGN galactic outflows.]
+      "sumary": ["Five weeks stay regarding my PhD thesis, working with relevant people studying AGN galactic outflows."]
     },
            {
       "studyType": "Research visitor"
       "institution": "Liverpool John Moore University (LJMU)"
       "where": "Liverpool, UK"
       "time": "2 months"
-      "date": 2023/09
+      "startDate": 2023/09
       "Host": "Dr. Robert Grand & Dr. Andrea Foont"
-      "courses": [Two months stay regarding my PhD thesis, working with relevant people in the galaxy formation area.]
+      "sumary": ["Two months stay regarding my PhD thesis, working with relevant people in the galaxy formation area."]
     },
                {
       "studyType": "Research initiation"
       "institution": "Max-Planck.Institur für Extraterrestrische Physik (MPE)"
       "where": "Garching, Germany"
       "time": "2 months"
-      "date": 2019/07
+      "startDate": 2019/07
       "Host": "Dr. Ariel Sánchez"
-      "courses": [Two months' stay funded by ERASMUS+ Traineeship program. Studying galaxy voids as cosmological
-laboratories]
+      "sumary": ["Two months' stay funded by ERASMUS+ Traineeship program. Studying galaxy voids as cosmological laboratories."]
     },
      {
       "studyType": "Research initiation"
       "institution": "Instituto de Astrofísica de Canarias (IAC)"
       "where": "La Laguna, Spain"
       "time": "1 month"
-      "date": 2018/12
+      "startDate": 2018/12
       "Host": "José Javier Díaz & Juan Villa"
-      "courses": [Participation in the development of the LISA project as part of an external internship from the bachelor's.]
+      "sumary": ["Participation in the development of the LISA project as part of an external internship from the bachelor's."]
     }
   ],
   "education": [
