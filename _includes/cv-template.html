@@ -160,11 +160,13 @@
   <!-- Additional roles -->
   <div class="cv-section">
   <h2>Additional roles</h2>
-  <div class="additional">
+  <div class="cv-item-detail">
   <ul>
+    {% for additional in cv.additional %}
     <li>{{ additional.role }}</li>
+    {% endfor %}
   </ul>
-</div>
+ </div>
 
 <style>
 .additional ul {
