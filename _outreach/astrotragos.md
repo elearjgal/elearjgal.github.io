@@ -3,7 +3,7 @@ title: "Astronomy on Tap (AstroTragos)"
 collection: talks
 type: "Outreach activity"
 permalink: /outreach/astrotragos
-venue: "El Búho Club"
+venue: "El Búho Club, La Laguna, Spain"
 date: 02/10/2025
 location: "La Laguna"
 ---
