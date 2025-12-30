@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/BEARDIII
 date: 2025/12
-venue: 'A&A. DOI (pending): 10.1051/0004-6361/202557193'
+venue: 'A&A'
 bibtexurl: 'https://elearjgal.github.io/files/aa57193-25.bib'
-citation: 'Marrero de la Rosa et al. A&A in production'
+citation: 'Marrero de la Rosa et al. A&A in production. DOI (pending): 10.1051/0004-6361/202557193'
 ---
