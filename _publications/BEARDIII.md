@@ -1,9 +1,9 @@
 ---
-title: "Bulgeless Evolution And the Rise of Discs (BEARD). III. Physical Drivers of the Mass-Size Relation for Milky Way-like Galaxies"
+title: "Bulgeless Evolution And the Rise of Discs (BEARD). I. Physical Drivers of the Mass-Size Relation for Milky Way-like Galaxies"
 collection: publications
-category: submitted
+category: in production
 permalink: /publications/BEARDIII
-date: 2025/09
+date: 2025/12
 venue: 'A&A'
-citation: 'Marrero de la Rosa et al. A&A submitted'
+citation: 'Marrero de la Rosa et al. A&A in production'
 ---
