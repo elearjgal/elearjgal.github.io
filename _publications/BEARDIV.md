@@ -1,11 +1,10 @@
 ---
-title: "Bulgeless Evolution and the Rise of Discs (BEARD) IV. The role of mergers in shaping the Milky Way analogues in TNG50"
+title: "Bulgeless Evolution and the Rise of Discs (BEARD) II. The role of mergers in shaping the Milky Way analogues in TNG50"
 collection: publications
 category: submitted
 permalink: /publications/BEARDIV
-date: 2025/08
+date: 2025/12
 venue: 'A&A'
-citation: 'Rosas-Guevara, et al. A&A submitted'
+bibtexurl: 'https://elearjgal.github.io/files/aa56875-25.bib
+citation: 'Rosas-Guevara, et al. A&A in production'
 ---
-
-aa56875-25.bib
